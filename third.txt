@@ -1,1 +1,2 @@
 This is the 3rd file
+This file has been update while inside the checkout-process branch
